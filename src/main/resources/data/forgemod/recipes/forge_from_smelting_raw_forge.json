@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingingtime": 100,
+  "experience": 0.8,
+  "group": "forge",
+  "ingredient": {
+    "item": "forgemod:raw_forge"
+  },
+  "result": "forgemod:forge"
+}

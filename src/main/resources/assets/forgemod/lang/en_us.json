@@ -1,0 +1,24 @@
+{
+  "item.forgemod.forge": "Forge Ingot",
+  "item.forgemod.raw_forge": "Raw Forge",
+  "item.forgemod.forge_nugget": "Forge Nugget",
+  "item.forgemod.forge_pickaxe": "Forge Pickaxe",
+  "item.forgemod.forge_axe": "Forge Axe",
+  "item.forgemod.forge_sword": "Forge Sword",
+  "item.forgemod.forge_hoe": "Forge Hoe",
+  "item.forgemod.forge_shovel": "Forge Shovel",
+  "item.forgemod.forge_helmet": "Forge Helmet",
+  "item.forgemod.forge_chestplate": "Forge Chestplate",
+  "item.forgemod.forge_leggings": "Forge Leggings",
+  "item.forgemod.forge_boots": "Forge Boots",
+
+  "block.forgemod.forge_block": "Forge Block",
+  "block.forgemod.forge_ore": "Forge Ore",
+  "block.forgemod.nether_forge_ore": "Netherrack Forge Ore",
+  "block.forgemod.end_forge_ore": "End Forge Ore",
+  "block.forgemod.deepslate_forge_ore": "Deepslate Forge Ore",
+
+
+
+  "itemGroup.forgetab": "Forge Tab"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+
+    {
+      "item": "forgemod:forge_block"
+    }
+  ],
+  "result": {
+    "item": "forgemod:forge",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "forgemod:raw_forge"
+    },
+    "X": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "pattern": [
+    "#X"
+  ],
+  "result": {
+    "item": "forgemod:deepslate_forge_ore"
+  }
+}
