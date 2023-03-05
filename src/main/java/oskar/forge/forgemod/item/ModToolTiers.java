@@ -16,8 +16,8 @@ public class ModToolTiers {
 
     static {
         FORGE = TierSortingRegistry.registerTier(
-                new ForgeTier(5, 2000, 9f, 3f, 24,
+                new ForgeTier(3, 2000, 9f, 3f, 24,
                         ModTags.Blocks.NEEDS_FORGE_TOOL, () -> Ingredient.of(ModItems.FORGE.get())),
-                new ResourceLocation(ForgeMod.MOD_ID, "forge"), List.of(Tiers.IRON), List.of());
+                new ResourceLocation(ForgeMod.MOD_ID, "forge"), List.of(Tiers.STONE), List.of());
     }
 }
