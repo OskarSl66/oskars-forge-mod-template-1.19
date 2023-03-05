@@ -41,6 +41,9 @@ public class ModItems {
             () -> new HoeItem(ModToolTiers.FORGE, 2, 3f,
                     new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB).stacksTo(1)));
 
+    public static final RegistryObject<Item> FORGE_SHIELD = ITEMS.register("forge_shield",
+            () -> new ShieldItem(new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB).stacksTo(1)));
+
     public static final RegistryObject<Item> FORGE_HELMET = ITEMS.register("forge_helmet",
             () -> new ArmorItem(ModArmorMaterials.FORGE, EquipmentSlot.HEAD,
                     new Item.Properties().tab(ModCreativeModeTab.TUTORIAL_TAB)));

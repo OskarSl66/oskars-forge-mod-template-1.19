@@ -1,0 +1,1 @@
+# oskars-forge-mod-template-1.19
